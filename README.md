@@ -20,7 +20,7 @@ The NewsHub is a production-ready news application that delivers an exceptional 
 
 ## 🚀 Live Demo
 
-**Deployed Site**: [https://tiny-crepe-9bc225.netlify.app](https://tiny-crepe-9bc225.netlify.app)
+**Deployed Site**: [(https://thenewsaggregator.netlify.app/)]
 
 ## 🛠️ Technical Skills Demonstrated
 

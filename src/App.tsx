@@ -355,7 +355,7 @@ function App() {
               {/* News Sections - Including Navigation Categories */}
               <div>
                 <h4 className="text-lg font-bold text-gray-900 dark:text-white mb-4 nyt-subheading">
-                  News Sections
+                  News Categories
                 </h4>
                 <ul className="space-y-2.5 text-sm">
                   {[
